@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Airline reservation system.iml" filepath="$PROJECT_DIR$/.idea/Airline reservation system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AirlineManagementSystem-master/AirlineManagementSystem-master/AirlineManagementSystem-master.iml" filepath="$PROJECT_DIR$/AirlineManagementSystem-master/AirlineManagementSystem-master/AirlineManagementSystem-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AirlineManagementSystem-master/untitled/untitled.iml" filepath="$PROJECT_DIR$/AirlineManagementSystem-master/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AirlineManagementSystem-master/untitled1/untitled1.iml" filepath="$PROJECT_DIR$/AirlineManagementSystem-master/untitled1/untitled1.iml" />
+    </modules>
+  </component>
+</project>
